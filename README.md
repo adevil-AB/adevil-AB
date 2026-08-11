@@ -8,7 +8,7 @@
 - 📫 How to reach me: Email Facebook or any social media
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I always want to learn
-About me :Hi, I'm Arindom Baidya, a Software Engineering student at Noakhali Science and Technology University (NSTU).
+- About me :Hi, I'm Arindom Baidya, a Software Engineering student at Noakhali Science and Technology University (NSTU).
 
 💻 I'm interested in Software Engineering, Java, Algorithms, and Cybersecurity.
 🚀 I enjoy building projects, exploring new technologies, and turning ideas into working software.
